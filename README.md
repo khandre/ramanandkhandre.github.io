@@ -1,2 +1,2 @@
-# ramanandkhandre.github.io
+# khandre.github.io
 A personal space
